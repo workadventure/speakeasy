@@ -770,7 +770,7 @@
         {
          "columns":6,
          "firstgid":12453,
-         "image":"..\/networking\/src\/assets\/special_zones.png",
+         "image":"src\/assets\/special_zones.png",
          "imageheight":64,
          "imagewidth":192,
          "margin":0,
